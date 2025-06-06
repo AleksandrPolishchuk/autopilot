@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autopilot", "autopilot\autopilot.csproj", "{A9C77FE5-76FF-4246-B191-15545F5A4C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C77FE5-76FF-4246-B191-15545F5A4C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C77FE5-76FF-4246-B191-15545F5A4C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C77FE5-76FF-4246-B191-15545F5A4C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C77FE5-76FF-4246-B191-15545F5A4C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C65F1B-93C5-4F24-AF06-3F0D09062C35}
+	EndGlobalSection
+EndGlobal
